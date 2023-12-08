@@ -7,6 +7,11 @@
 Navigate to the Ollama website and follow the instructions to install Ollama on your machine.
 https://ollama.ai/download
 
+** Memory requirements **
+
+- 7b models generally require at least 8GB of RAM
+- 70b models generally require at least 64GB of RAM
+
 ### Installing Llama2-unscensored and running it
 
 This command is neat because it will install the model and run it in one command. The model will run the ollama localhost:11434.
