@@ -1,0 +1,5 @@
+chromadb
+bs4
+gpt4all
+langchain
+gradio
